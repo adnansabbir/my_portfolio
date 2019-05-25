@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     'rest_framework',
     'backend.my_profile',
     'django_cleanup',
+    'frontend'
 ]
 
 MIDDLEWARE = [
